@@ -3,21 +3,21 @@ This README is designed to help experienced Django developers prepare for scenar
 
 # 📌 Table of Contents
 Overview
-Key Focus Areas
-Scenario-Based Questions & Answers
-System Design Scenarios
-Database & Concurrency Handling
-Performance Optimization
-Security Best Practices
-Real-World Architecture Tips
-How to Use This Guide
+1.Key Focus Areas
+2.Scenario-Based Questions & Answers
+3.System Design Scenarios
+4.Database & Concurrency Handling
+5.Performance Optimization
+6.Security Best Practices
+7.Real-World Architecture Tips
+8.How to Use This Guide
 
 # 🧠 Overview
 
 For 5+ years of experience, interviews are less about syntax and more about:
 
-Problem-solving ability
-Real-world experience
-System design thinking
-Scalability & performance
-Trade-off decisions
+1.Problem-solving ability
+2.Real-world experience
+3.System design thinking
+4.Scalability & performance
+5.Trade-off decisions
