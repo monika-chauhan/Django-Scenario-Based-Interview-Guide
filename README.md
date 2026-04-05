@@ -21,3 +21,16 @@ For 5+ years of experience, interviews are less about syntax and more about:
 3.System design thinking
 4.Scalability & performance
 5.Trade-off decisions
+
+# 🎯 Key Focus Areas
+
+You should be strong in:
+
+1.Django ORM & Query Optimization
+2.REST API Design (DRF)
+3.Authentication (JWT, OAuth, SSO)
+4.Caching (Redis)
+5.Background Jobs (Celery)
+6.Database Design
+7.Concurrency Handling
+8.System Design Basics
