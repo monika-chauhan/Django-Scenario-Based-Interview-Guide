@@ -1,6 +1,7 @@
 # Django-Scenario-Based-Interview-Guide
 This README is designed to help experienced Django developers prepare for scenario-based interview questions commonly asked in both service-based and product-based companies.
-📌 Table of Contents
+
+# 📌 Table of Contents
 Overview
 Key Focus Areas
 Scenario-Based Questions & Answers
@@ -11,7 +12,7 @@ Security Best Practices
 Real-World Architecture Tips
 How to Use This Guide
 
-🧠 Overview
+# 🧠 Overview
 
 For 5+ years of experience, interviews are less about syntax and more about:
 
